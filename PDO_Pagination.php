@@ -18,7 +18,7 @@ public $param;
 public $btn_first_page;
 public $btn_last_page;
 public $btn_next_page;
-public $btn_forward_page;
+public $btn_back_page;
 public $btn_page;
 public $btn_active;
 
