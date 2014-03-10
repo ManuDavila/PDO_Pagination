@@ -9,7 +9,7 @@ Save the folder in your site project. Install in your database the code from dem
 
 View video demo ...
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/kKCferOfaOc" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/kKCferOfaOc" frameborder="0" allowfullscreen></iframe>
 
 <strong>Descripción en español:</strong>
 
@@ -19,4 +19,4 @@ Guardar la carpeta en el sitio de tu proyecto. Instala en tu base de datos el c�
 
 Ver vídeo demo ...
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/kKCferOfaOc" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/kKCferOfaOc" frameborder="0" allowfullscreen></iframe>
