@@ -1,0 +1,9 @@
+{
+"name": "ManuDavila/PDO_Pagination",
+"description": "PDO_Pagination is a PHP class for create results pagination.",
+"keywords": ["php", "pagination", "database"],
+"license": "MIT",
+"require": {
+"ManuDavila/PDO_Pagination": "1.0.*"
+}
+}
