@@ -16,3 +16,7 @@ PDO_Pagination es una clase php para crear resultados de paginación con consult
 Guardar la carpeta en el sitio de tu proyecto. Instala en tu base de datos el código de demo.sql y editar la conexión en el archivo demo.php. Finalmente ejecuta demo.php en el navegador.
 
 Ver vídeo demo ... http://www.youtube.com/watch?v=kKCferOfaOc
+<<<<<<< HEAD
+=======
+
+>>>>>>> 57e2bc8e8d67837773c25a126dd9fb2379e72fbc
