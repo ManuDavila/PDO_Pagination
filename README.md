@@ -5,7 +5,7 @@ PDO_Pagination
 
 PDO_Pagination is a PHP class for create results pagination with database connection and PDO extension.
 
-Save the folder in your site project. Install in your database the code from demo.sql and edit the connection config in the file demo.php. finish, execute demo.php in your browser.
+Save the folder in your project site. Install in your database the code from demo.sql and you edit the connection config in the file demo.php. finish, execute demo.php in your browser.
 
 View video demo ... http://www.youtube.com/watch?v=kKCferOfaOc
 
